@@ -1,7 +1,8 @@
 # Hello! I am Enzo Farias de Moraes! 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-farias-de-moraes-488356224)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](
+https://www.linkedin.com/in/enzo-farias-de-moraes-488356224)
+
 
 ![Enzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnzoMoraes-full&show_icons=true&theme=synthwave)
 
